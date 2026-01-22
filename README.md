@@ -1,4 +1,4 @@
-# Travel Advisor Application
+# Journey Maven Application
 
 ## Objective
 The objective of the **Travel Advisor Application** is to provide users with a comprehensive platform for discovering, planning, and managing their trips efficiently. The app aims to offer personalized travel recommendations, real-time updates, and user-generated reviews to enhance the travel experience.
